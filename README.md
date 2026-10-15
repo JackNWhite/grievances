@@ -23,7 +23,7 @@ Personal gripes with various software - no blame attached!
 
 <!-- ------------------------------------------------------------------------------------- -->
 ## Cinnamon
-- Incomplete Wayland support
+[ ] Incomplete Wayland support
 - No HDR support
 - Tray applets do not have a double-click action
 
@@ -32,3 +32,4 @@ Personal gripes with various software - no blame attached!
 ## Zed
 - Saves a `.zed` subdirectory in source directory without being asked
 - Does not support simple buffer edit plugins
+- Disabling bold fonts involves faffing around with font weights, which it seems most fonts don't support in any case
