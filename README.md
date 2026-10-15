@@ -23,7 +23,7 @@ Personal gripes with various software - no blame attached!
 
 <!-- ------------------------------------------------------------------------------------- -->
 ## Cinnamon
-[ ] Incomplete Wayland support
+- [ ] Incomplete Wayland support
 - No HDR support
 - Tray applets do not have a double-click action
 
