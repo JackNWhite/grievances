@@ -26,3 +26,9 @@ Personal gripes with various software - no blame attached!
 - Incomplete Wayland support
 - No HDR support
 - Tray applets do not have a double-click action
+
+
+<!-- ------------------------------------------------------------------------------------- -->
+## Zed
+- Saves a `.zed` subdirectory in source directory without being asked
+- Does not support simple buffer edit plugins
