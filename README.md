@@ -17,6 +17,9 @@ Personal gripes with various software - no blame attached!
 - Supports only a subset of available fonts, excluding Terminus, which is a deal-breaker. Why?! Cosmic Text cannot be the problem, because Terminus and other fonts work fine on Zed. And... why?! It's based on Alacritty, which again has fine support.
 - Does not retain window size
 
+### Cosmic Files
+- Does not have a compact view
+
 
 <!-- ------------------------------------------------------------------------------------- -->
 ## Cinnamon
