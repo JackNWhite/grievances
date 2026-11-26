@@ -35,3 +35,7 @@ Personal gripes with various software - no blame attached!
 - [ ] Disabling bold fonts involves faffing around with font weights, which none of the fonts I've tried appear to support
 - [ ] When a panel is open beneath the close-window button, the button looks like it closes the panel and I keep clicking on it
 - [ ] Does not have a global project selection window/menu or even keep a list
+
+<!-- ------------------------------------------------------------------------------------- -->
+## Windows
+- [ ] Unable to add launchers to task bar
